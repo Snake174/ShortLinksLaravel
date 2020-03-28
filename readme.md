@@ -1,3 +1,15 @@
+# Сервис по сокращению ссылок
+
+## Подготовка
+
+- Создать базу данных
+- Переименовать файл **.env.example** в **.env**
+- Установить значение **DB_DATABASE**
+- Выполнить команду **composer install**
+- Выполнить команду **php artisan migrate**
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
